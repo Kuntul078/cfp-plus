@@ -13,12 +13,12 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/DNetL/cfp-plus.git"
+    "url": "git+https://github.com/Kuntul078/cfp-plus.git"
   },
   "bugs": {
-    "url": "https://github.com/DNetL/cfp-plus/issues"
+    "url": "https://github.com/Kuntul078/cfp-plus/issues"
   },
-  "homepage": "https://github.com/DNetL/cfp-plus#readme",
+  "homepage": "https://github.com/Kuntul078/cfp-plus#readme",
   "dependencies": {
     "ws": "^8.2.3"
   },
